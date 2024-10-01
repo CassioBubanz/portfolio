@@ -55,9 +55,9 @@ const Data = () => {
                 ></path>
             </svg>
         </h1>
-        <h3 className="home__subtitle">Desenvolvedor Front-end</h3>
+        <h3 className="home__subtitle">Desenvolvedor Front-end & Mobile</h3>
         <p className="home__description">
-        Desenvolvedor com experiência em tecnologias front-end e mobile, especializado na construção de interfaces modernas e dinâmicas.
+        Oi! Sou um desenvolvedor Brasileiro que adora tecnologia e meu trabalho :)
         </p>
 
         <a href="#contact" className="button button--flex">
