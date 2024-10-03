@@ -18,7 +18,7 @@ const Services = () => {
                 <div>
                     <i className="uil uil-web-grid services__icon"></i>
                     <h3 className="services__title">
-                        Product <br /> Designer
+                    Desenvolvimento <br /> Full-Stack
                     </h3>
                 </div>
 
@@ -33,45 +33,44 @@ const Services = () => {
                         <i onClick={() => toggleTab(0)} className="uil uil-times services__modal-close">
                         </i>
 
-                        <h3 className="services__modal-title">Product
-                            Designer</h3>
+                        <h3 className="services__modal-title">Desenvolvimento Web e <br /> Aplicações Full-Stack</h3>
                         <p className="services__modal-description">
-                            Serviços completos de criação e otimização de sites com foco na experiência do usuário e no desempenho.
+                        Criação de aplicações completas, desde a interface de usuário até o backend.
                         </p>
 
                         <ul className="services__modal-services grid">
                             <li className="services__modal-service">
                                 <i className="uil uil-check-circle services__modal-icon"></i>
                                 <p className="services__modal-info">
-                                    Desenvolvimento de interfaces de usuário modernas e responsivas.
+                                Desenvolvimento de aplicações web interativas e dinâmicas utilizando frameworks modernos como Vue.js e React.
                                 </p>
                             </li>
 
                             <li className="services__modal-service">
                                 <i className="uil uil-check-circle services__modal-icon"></i>
                                 <p className="services__modal-info">
-                                    Criação de páginas web personalizadas, adaptadas às suas necessidades.
+                                Integração de APIs RESTful e GraphQL para comunicação eficiente entre frontend e backend.
                                 </p>
                             </li>
 
                             <li className="services__modal-service">
                                 <i className="uil uil-check-circle services__modal-icon"></i>
                                 <p className="services__modal-info">
-                                    Design de elementos UI/UX intuitivos e focados na usabilidade.
+                                Implementação de backends robustos com Node.js, Express, Django, e bancos de dados relacionais ou NoSQL.
                                 </p>
                             </li>
 
                             <li className="services__modal-service">
                                 <i className="uil uil-check-circle services__modal-icon"></i>
                                 <p className="services__modal-info">
-                                    Desenvolvimento de uma identidade visual sólida para sua marca.
+                                Desenvolvimento de funcionalidades personalizadas, como sistemas de autenticação, gerenciamento de dados e dashboards interativos.
                                 </p>
                             </li>
 
                             <li className="services__modal-service">
                                 <i className="uil uil-check-circle services__modal-icon"></i>
                                 <p className="services__modal-info">
-                                    Criação de designs e layouts modernos para websites.
+                                Otimização de performance e segurança em aplicações web e mobile.
                                 </p>
                             </li>
                         </ul>
@@ -83,7 +82,7 @@ const Services = () => {
                 <div>
                     <i className="uil uil-arrow services__icon"></i>
                     <h3 className="services__title">
-                        Ui/Ux <br /> Designer
+                    Desenvolvimento <br /> Mobile
                     </h3>
                 </div>
 
@@ -100,46 +99,46 @@ const Services = () => {
                         <i onClick={() => toggleTab(0)} className="uil 
                         uil-times services__modal-close"></i>
 
-                        <h3 className="services__modal-title">Ui/Ux
-                        Designer</h3>
+                        <h3 className="services__modal-title">Desenvolvimento de <br /> Aplicativos Mobiles
+                        </h3>
                         <p className="services__modal-description">
-                            Serviços completos de criação e otimização de sites
-                            com foco na experiência do usuário e no desempenho.
+                        Criação de aplicativos móveis nativos e cross-platform com foco em performance, 
+                        usabilidade e integração com serviços externos.
                         </p>
 
                         <ul className="services__modal-services grid">
                             <li className="services__modal-service">
                                 <i className="uil uil-check-circle services__modal-icon"></i>
                                 <p className="services__modal-info">
-                                    Desenvolvimento de interfaces de usuário modernas e responsivas.
+                                Desenvolvimento de aplicativos móveis cross-platform utilizando React Native.
                                 </p>
                             </li>
 
                             <li className="services__modal-service">
                                 <i className="uil uil-check-circle services__modal-icon"></i>
                                 <p className="services__modal-info">
-                                    Criação de páginas web personalizadas, adaptadas às suas necessidades.
+                                Integração com APIs, sistemas de pagamento e notificações push para maior funcionalidade.
                                 </p>
                             </li>
 
                             <li className="services__modal-service">
                                 <i className="uil uil-check-circle services__modal-icon"></i>
                                 <p className="services__modal-info">
-                                    Design de elementos UI/UX intuitivos e focados na usabilidade.
+                                Criação de experiências móveis otimizadas, garantindo responsividade e desempenho em dispositivos Android.
                                 </p>
                             </li>
 
                             <li className="services__modal-service">
                                 <i className="uil uil-check-circle services__modal-icon"></i>
                                 <p className="services__modal-info">
-                                    Desenvolvimento de uma identidade visual sólida para sua marca.
+                                Soluções personalizadas para startups e empresas, adaptando aplicativos às necessidades de mercado.
                                 </p>
                             </li>
 
                             <li className="services__modal-service">
                                 <i className="uil uil-check-circle services__modal-icon"></i>
                                 <p className="services__modal-info">
-                                    Criação de designs e layouts modernos para websites.
+                                Publicação e manutenção de aplicativos na loja da Google Play.
                                 </p>
                             </li>
                         </ul>
@@ -150,8 +149,7 @@ const Services = () => {
             <div className="services__content">
                 <div>
                     <i className="uil uil-edit services__icon"></i>
-                    <h3 className="services__title">Visual
-                        <br />Designer
+                    <h3 className="services__title">Desenvolvimento <br /> Front-End
                     </h3>
                 </div>
 
@@ -168,44 +166,44 @@ const Services = () => {
                         className="uil uil-times services__modal-close">
                         </i>
 
-                        <h3 className="services__modal-title">Visual Designer</h3>
+                        <h3 className="services__modal-title">Desenvolvimento Front-End e <br /> Interfaces Dinâmicas</h3>
                         <p className="services__modal-description">
-                            Serviços completos de criação e otimização de sites com foco na experiência do usuário e no desempenho.
+                        Criação de interfaces modernas, interativas e responsivas, utilizando as mais recentes tecnologias de front-end para garantir uma experiência de usuário fluida e otimizada.
                         </p>
 
                         <ul className="services__modal-services grid">
                             <li className="services__modal-service">
                                 <i className="uil uil-check-circle services__modal-icon"></i>
                                 <p className="services__modal-info">
-                                    Desenvolvimento de interfaces de usuário modernas e responsivas.
+                                Desenvolvimento de aplicações front-end com Vue.js, React, e outras bibliotecas JavaScript, criando interfaces dinâmicas e interativas.
                                 </p>
                             </li>
 
                             <li className="services__modal-service">
                                 <i className="uil uil-check-circle services__modal-icon"></i>
                                 <p className="services__modal-info">
-                                    Criação de páginas web personalizadas, adaptadas às suas necessidades.
+                                Integração com APIs e serviços externos, para garantir que seu front-end funcione de forma harmoniosa com backends e APIs.
                                 </p>
                             </li>
 
                             <li className="services__modal-service">
                                 <i className="uil uil-check-circle services__modal-icon"></i>
                                 <p className="services__modal-info">
-                                    Design de elementos UI/UX intuitivos e focados na usabilidade.
+                                Uso de boas práticas de performance para garantir que o site seja rápido e eficiente.
                                 </p>
                             </li>
 
                             <li className="services__modal-service">
                                 <i className="uil uil-check-circle services__modal-icon"></i>
                                 <p className="services__modal-info">
-                                    Desenvolvimento de uma identidade visual sólida para sua marca.
+                                Manutenção contínua e suporte técnico para manter sua aplicação atualizada com as últimas melhorias e otimizações.
                                 </p>
                             </li>
 
                             <li className="services__modal-service">
                                 <i className="uil uil-check-circle services__modal-icon"></i>
                                 <p className="services__modal-info">
-                                    Criação de designs e layouts modernos para websites.
+                                Criação de designs e layouts modernos para websites.
                                 </p>
                             </li>
                         </ul>
